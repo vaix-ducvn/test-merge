@@ -2,3 +2,5 @@ branch main
 commit 1
 
 commit 2
+branch branch2
+commit b2-1
